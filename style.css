@@ -132,6 +132,11 @@ border-radius:20px;
 
 }
 
+#photoCarousel{
+  max-width:700px;
+  margin:auto;
+}
+
 .video-grid{
   grid-template-columns:1fr;
 }
